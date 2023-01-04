@@ -20,13 +20,6 @@ This is a simple portfolio website built using Bootstrap. It includes an about m
 
 ## Getting Started
 
-To get a local copy of the repository please run the following commands:
-
-```bash
-git clone https://github.com/[USERNAME]/bootstrap-portfolio.git
-cd bootstrap-portfolio
-
-
 To run the website locally, open the index.html file in your browser.
 
 Deployment
